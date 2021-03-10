@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.navbar {
+  background: beige;
+  margin: 0px 50px 0px 50px;
+}
+.col-4 {
+  padding: 0;
+}
